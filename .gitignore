@@ -1,0 +1,10 @@
+.env
+writable/
+tests/
+system/
+vendor/
+composer
+license
+phpunit.xml.dist
+preload
+spark
